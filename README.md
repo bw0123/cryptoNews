@@ -4,3 +4,9 @@ This web application retrieves and displays the most recent news and blog posts 
 
 This was built using: HTML, CSS, Javascript, Bootstrap, Python, and Django.
 
+Install dependencies: 
+python -m pip install django
+
+pip install requirements.txt
+
+Run app: python manage.py startapp cryptoSite
