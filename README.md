@@ -10,4 +10,6 @@ python -m pip install django
 
 pip install requirements.txt
 _____________________
-Run app: python manage.py startapp cryptoSite
+Run app: 
+
+python manage.py startapp cryptoSite
