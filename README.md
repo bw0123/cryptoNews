@@ -1,6 +1,6 @@
 # cryptoNews
 
-This website displays the most recent news and blog posts related to cryptocurrency. There is an option to check out the home and pricing page. 
+This web application retrieves and displays the most recent news and blog posts related to cryptocurrency from the CryptoCompare Data API. There is an option to visit the home and pricing page. 
 
 This was built using: HTML, CSS, Javascript, Bootstrap, Python, and Django.
 
