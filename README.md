@@ -2,5 +2,5 @@
 
 This website displays the most recent news and blog posts related to cryptocurrency. There is an option to check out the home and pricing page. 
 
-This was built using: HTML, CSS, Javascript, and Bootstrap for the front-end and Python with the Django web framework for the back-end.
+This was built using: HTML, CSS, Javascript, Bootstrap, Python, and Django.
 
